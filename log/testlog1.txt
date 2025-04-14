@@ -1,0 +1,71 @@
+2022-12-29 16:38:31,724|main| INFO|PageBaseClass|Browser is Opened
+ 2022-12-29 16:47:03,104|main| INFO|PageBaseClass|Browser is Opened
+ 2022-12-29 17:18:42,064|main| INFO|PageBaseClass|Browser is Opened
+ 2022-12-29 17:55:53,783|main| INFO|PageBaseClass|Browser is Opened
+ 2022-12-29 18:14:44,587|main| INFO|PageBaseClass|Browser is Opened
+ 2022-12-29 18:26:35,939|main| INFO|PageBaseClass|Browser is Opened
+ 2022-12-29 18:27:18,481|main| WARN|VersionDetector|Error reading commands.properties, using local instead
+ 2022-12-29 18:35:50,152|main| INFO|PageBaseClass|Browser is Opened
+ 2022-12-29 18:36:33,241|main| WARN|VersionDetector|Error reading commands.properties, using local instead
+ 2022-12-29 18:45:00,668|main| INFO|PageBaseClass|Browser is Opened
+ 2022-12-29 18:45:11,323|main| INFO|PageBaseClass|Opened URL is : https://www.amazon.in/
+ 2022-12-29 19:37:57,469|main| INFO|PageBaseClass|Browser is Opened
+ 2022-12-29 19:38:40,018|main| WARN|VersionDetector|Error reading commands.properties, using local instead
+ 2022-12-29 19:48:55,079|main| INFO|PageBaseClass|Browser is Opened
+ 2022-12-29 19:49:37,681|main| WARN|VersionDetector|Error reading commands.properties, using local instead
+ 2022-12-29 19:52:29,864|main| INFO|PageBaseClass|Browser is Opened
+ 2022-12-29 19:53:12,415|main| WARN|VersionDetector|Error reading commands.properties, using local instead
+ 2022-12-30 13:51:38,580|main| INFO|PageBaseClass|Browser is Opened
+ 2022-12-30 13:51:49,629|main| INFO|PageBaseClass|Opened URL is : https://www.amazon.in/
+ 2022-12-30 14:00:35,701|main| INFO|PageBaseClass|Browser is Opened
+ 2022-12-30 14:00:43,490|main| INFO|PageBaseClass|Opened URL is : https://www.amazon.in/
+ 2022-12-30 14:33:37,425|main| INFO|PageBaseClass|Browser is Opened
+ 2022-12-30 14:33:45,893|main| INFO|PageBaseClass|Opened URL is : https://www.amazon.in/
+ 2022-12-30 14:39:05,218|main| INFO|PageBaseClass|Browser is Opened
+ 2022-12-30 14:39:10,218|main| INFO|PageBaseClass|Opened URL is : https://www.amazon.in/
+ 2022-12-30 15:06:12,866|main| INFO|PageBaseClass|Browser is Opened
+ 2022-12-30 15:06:19,950|main| INFO|PageBaseClass|Opened URL is : https://www.amazon.in/
+ 2022-12-30 15:11:01,625|main| INFO|PageBaseClass|Browser is Opened
+ 2022-12-30 15:11:08,433|main| INFO|PageBaseClass|Opened URL is : https://www.amazon.in/
+ 2022-12-30 15:17:37,127|main| INFO|PageBaseClass|Browser is Opened
+ 2022-12-30 15:17:44,547|main| INFO|PageBaseClass|Opened URL is : https://www.amazon.in/
+ 2022-12-30 15:28:42,680|main| INFO|PageBaseClass|Browser is Opened
+ 2022-12-30 15:28:49,413|main| INFO|PageBaseClass|Opened URL is : https://www.amazon.in/
+ 2022-12-30 15:58:04,114|main| INFO|PageBaseClass|Browser is Opened
+ 2022-12-30 15:58:12,825|main| INFO|PageBaseClass|Opened URL is : https://www.amazon.in/
+ 2022-12-30 16:28:09,541|main| INFO|PageBaseClass|Browser is Opened
+ 2022-12-30 16:29:18,770|main| INFO|PageBaseClass|Browser is Opened
+ 2022-12-30 16:29:25,791|main| INFO|PageBaseClass|Opened URL is : https://www.amazon.in/
+ 2022-12-30 16:52:19,354|main| INFO|PageBaseClass|Browser is Opened
+ 2022-12-30 16:52:24,842|main| INFO|PageBaseClass|Opened URL is : https://www.amazon.in/
+ 2022-12-30 16:52:30,839|main| INFO|PageBaseClass|SignIn button Clicked
+ 2022-12-30 16:52:30,942|main| INFO|PageBaseClass|Email Entered : abingle27@gmail.com
+ 2022-12-30 16:52:33,534|main| INFO|PageBaseClass|Click on Continue Button 
+ 2022-12-30 16:52:35,625|main| INFO|PageBaseClass|Password Entered : Ingle@1997
+ 2022-12-30 17:24:33,240|main| INFO|PageBaseClass|Browser is Opened
+ 2022-12-30 17:24:38,813|main| INFO|PageBaseClass|Opened URL is : https://www.amazon.in/
+ 2022-12-30 17:24:45,091|main| INFO|PageBaseClass|SignIn button Clicked
+ 2022-12-30 17:24:47,520|main| INFO|PageBaseClass|Email Entered : abingle27@gmail.com
+ 2022-12-30 17:24:50,124|main| INFO|PageBaseClass|Click on Continue Button 
+ 2022-12-30 17:24:52,369|main| INFO|PageBaseClass|Password Entered : Ingle@1997
+ 2022-12-30 18:04:49,824|main| INFO|PageBaseClass|Browser is Opened
+ 2022-12-30 18:04:55,530|main| INFO|PageBaseClass|Opened URL is : https://www.amazon.in/
+ 2022-12-30 18:05:01,641|main| INFO|PageBaseClass|SignIn button Clicked
+ 2022-12-30 18:05:04,066|main| INFO|PageBaseClass|Email Entered : abingle27@gmail.com
+ 2022-12-30 18:05:06,549|main| INFO|PageBaseClass|Click on Continue Button 
+ 2022-12-30 18:05:08,787|main| INFO|PageBaseClass|Password Entered : Ingle@1997
+ 2025-02-14 18:45:34,584|main| INFO|PageBaseClass|Browser is Opened
+ 2025-02-14 18:45:38,632|main| WARN|FileSystemFontProvider|New fonts found, font cache will be re-built
+ 2025-02-14 18:45:38,633|main| WARN|FileSystemFontProvider|Building on-disk font cache, this may take a while
+ 2025-02-14 18:45:40,205|main| WARN|FileSystemFontProvider|Finished building on-disk font cache, found 372 fonts
+ 2025-02-14 18:52:13,030|main| INFO|PageBaseClass|Browser is Opened
+ 2025-02-14 18:52:26,640|main| INFO|PageBaseClass|Opened URL is : https://www.amazon.in/
+ 2025-02-14 18:53:16,121|main| INFO|PageBaseClass|Browser is Opened
+ 2025-02-14 18:53:19,851|main| INFO|PageBaseClass|Opened URL is : https://www.amazon.in/
+ 2025-02-14 18:53:25,551|main| INFO|PageBaseClass|SignIn button Clicked
+ 2025-02-18 14:35:56,618|main| INFO|PageBaseClass|Browser is Opened
+ 2025-02-18 14:36:03,165|main| INFO|PageBaseClass|Opened URL is : https://www.amazon.in/
+ 2025-02-18 14:36:09,279|main| INFO|PageBaseClass|SignIn button Clicked
+ 2025-03-20 22:00:21,653|main| INFO|PageBaseClass|Browser is Opened
+ 2025-03-20 22:00:25,674|main| INFO|PageBaseClass|Opened URL is : https://www.amazon.in/
+ 
